@@ -9,3 +9,5 @@
 <li>Use the "Reset" button to clear the calculator for subsequent calculations.</li>
 </ol>
 <p>This simple process ensures quick and accurate conversions between centimeters and feet.</p>
+<h2>License</h2>
+<p>Centimeter to feet converter is licensed under the <a href="https://github.com/yury-makarov/centimeter-to-feet-converter/blob/main/LICENSE">Apache-2.0 license</a></p>
