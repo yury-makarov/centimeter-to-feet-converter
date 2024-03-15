@@ -10,8 +10,8 @@
 </ol>
 <p>This simple process ensures quick and accurate conversions between centimeters and feet.</p>
 <h2>Screenshot</h2>
-<p><img src="https://raw.githubusercontent.com/yury-makarov/feet-to-cm-converter/main/screenshot-of-the-feet-to-cm-converter.png" alt="Screenshot of the feet to cm converter"/></p>
-<p>Here is a screenshot of how the feet to centimeters converter works.</p>
+<p><img src="https://raw.githubusercontent.com/yury-makarov/centimeter-to-feet-converter/main/centimeter-to-feet-converter.png" alt="Screenshot of the centimeter to feet converter"/></p>
+<p>Here is a screenshot of how the centimeters to feet converter works.</p>
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
