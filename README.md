@@ -29,5 +29,5 @@
  <li><a href="https://github.com/yury-makarov/centimeters-to-millimeters-conversion">Centimeters to Millimeters Converter</a></li>
  <li><a href="https://github.com/yury-makarov/meter-to-cm-converter">Meter to cm converter</a></li>
  <li><a href="https://github.com/yury-makarov/cm-to-meter-converter">Cm to Meter Converter</a></li>
- <li><a href="https://github.com/yury-makarov/centimeter-to-feet-converter">Centimeter to Feet Converter</a></li>
+ <li><a href="https://github.com/yury-makarov/feet-to-cm-converter">Feet to cm converter</a></li>
 </ul>
