@@ -1,5 +1,5 @@
 # Centimeter to Feet Converter
-<p>Easily convert centimeters to feet using our free online calculator. <a href="https://www.asutpp.com/cm-to-feet.html">Convert it here!</a></p>
+<p>Easily convert centimeters to feet using our free online calculator.
 <h2>Usage</h2>
 <p>To use the centimeters to feet converter, follow these steps:</p>
 <ol>
